@@ -1,0 +1,46 @@
+﻿<Window x:Class="BDDIII_DB4O_CRUD.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BDDIII_DB4O_CRUD"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="544.688" Width="1195.625" Loaded="Window_Loaded">
+    <Grid>
+        <DatePicker x:Name="dpBirthDate" HorizontalAlignment="Left" Margin="168,196,0,0" VerticalAlignment="Top" Width="153"/>
+        <TextBox x:Name="txtCi" HorizontalAlignment="Left" Height="23" Margin="168,40,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="153"/>
+        <Label x:Name="label" Content="Ci:" HorizontalAlignment="Left" Margin="26,40,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <TextBox x:Name="txtName" HorizontalAlignment="Left" Height="23" Margin="168,71,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="153"/>
+        <Label x:Name="label_Copy" Content="Nombres:" HorizontalAlignment="Left" Margin="26,71,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <TextBox x:Name="txtLastName" HorizontalAlignment="Left" Height="23" Margin="168,99,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="153"/>
+        <Label x:Name="label_Copy1" Content="Primer apellido:" HorizontalAlignment="Left" Margin="26,99,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <TextBox x:Name="txtSecondLastName" HorizontalAlignment="Left" Height="23" Margin="168,130,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="153"/>
+        <Label x:Name="label_Copy2" Content="Segundo apellido:" HorizontalAlignment="Left" Margin="26,130,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Label x:Name="label_Copy3" Content="Sexo:" HorizontalAlignment="Left" Margin="26,162,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Label x:Name="label_Copy4" Content="Fecha de nacimiento:" HorizontalAlignment="Left" Margin="26,193,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <ListBox x:Name="lbxData" HorizontalAlignment="Left" Height="274" Margin="375,58,0,0" VerticalAlignment="Top" Width="395"/>
+        <Button x:Name="btnInsertPerson" Content="Insertar Persona" HorizontalAlignment="Left" Margin="110,266,0,0" VerticalAlignment="Top" Width="119" Height="27" Click="btnInsertPerson_Click"/>
+        <ComboBox x:Name="cbxGender" HorizontalAlignment="Left" Margin="168,162,0,0" VerticalAlignment="Top" Width="153">
+            <ComboBoxItem>M</ComboBoxItem>
+            <ComboBoxItem>F</ComboBoxItem>
+        </ComboBox>
+        <Button x:Name="btnFindPersonCi" Content="..." HorizontalAlignment="Left" Margin="334,37,0,0" VerticalAlignment="Top" Width="26" RenderTransformOrigin="0.335,0.655" Click="btnFindPersonCi_Click"/>
+        <Button x:Name="btnDeletePerson" Content="DEL" HorizontalAlignment="Left" Margin="375,33,0,0" VerticalAlignment="Top" Width="75" Click="btnDeletePerson_Click"/>
+        <Button x:Name="btnUpdatePerson" Content="Update" HorizontalAlignment="Left" Margin="488,33,0,0" VerticalAlignment="Top" Width="75" Click="btnUpdatePerson_Click"/>
+        <TextBox x:Name="txtCode" HorizontalAlignment="Left" Height="23" Margin="971,76,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="153"/>
+        <Label x:Name="label_Copy5" Content="Codigo:" HorizontalAlignment="Left" Margin="829,76,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <TextBox x:Name="txtDescription" HorizontalAlignment="Left" Height="23" Margin="971,107,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="153"/>
+        <Label x:Name="label_Copy6" Content="Descripcion:" HorizontalAlignment="Left" Margin="829,107,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Button x:Name="btnRegisterTransact" Content="Registrar tramite" HorizontalAlignment="Left" Margin="930,147,0,0" VerticalAlignment="Top" Width="126" Click="btnRegisterTransact_Click"/>
+        <Label x:Name="label_Copy7" Content="REGISTRO DE TRAMITE:" HorizontalAlignment="Left" Margin="912,37,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <TextBox x:Name="txtBranchCode" HorizontalAlignment="Left" Height="23" Margin="971,240,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="153"/>
+        <Label x:Name="label_Copy8" Content="Codigo:" HorizontalAlignment="Left" Margin="829,240,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <TextBox x:Name="txtBranchName" HorizontalAlignment="Left" Height="23" Margin="971,271,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="153"/>
+        <Label x:Name="label_Copy9" Content="Nombre:" HorizontalAlignment="Left" Margin="829,271,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Button x:Name="btnRegisterBranch" Content="Registrar tramite" HorizontalAlignment="Left" Margin="930,311,0,0" VerticalAlignment="Top" Width="126" Click="btnRegisterBranch_Click"/>
+        <Label x:Name="label_Copy10" Content="REGISTRO DE SUCURSAL:" HorizontalAlignment="Left" Margin="912,201,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Button x:Name="btnAddPerson" Content="+" HorizontalAlignment="Left" Margin="873,312,0,0" VerticalAlignment="Top" Width="35" Click="btnAddPerson_Click"/>
+        <ListBox x:Name="lbxBranch" HorizontalAlignment="Left" Height="153" Margin="375,351,0,0" VerticalAlignment="Top" Width="395"/>
+
+    </Grid>
+</Window>

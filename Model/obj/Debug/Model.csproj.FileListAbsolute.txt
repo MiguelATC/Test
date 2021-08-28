@@ -1,0 +1,11 @@
+C:\Users\Fear-Lap\source\repos\BDDIII_DB4O_CRUD\Model\bin\Debug\Model.dll
+C:\Users\Fear-Lap\source\repos\BDDIII_DB4O_CRUD\Model\bin\Debug\Model.pdb
+C:\Users\Fear-Lap\source\repos\BDDIII_DB4O_CRUD\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Fear-Lap\source\repos\BDDIII_DB4O_CRUD\Model\obj\Debug\Model.dll
+C:\Users\Fear-Lap\source\repos\BDDIII_DB4O_CRUD\Model\obj\Debug\Model.pdb
+C:\Users\Fear\source\repos\BDDIII_DB4O_CRUD\Model\bin\Debug\Model.dll
+C:\Users\Fear\source\repos\BDDIII_DB4O_CRUD\Model\bin\Debug\Model.pdb
+C:\Users\Fear\source\repos\BDDIII_DB4O_CRUD\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\Fear\source\repos\BDDIII_DB4O_CRUD\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Fear\source\repos\BDDIII_DB4O_CRUD\Model\obj\Debug\Model.dll
+C:\Users\Fear\source\repos\BDDIII_DB4O_CRUD\Model\obj\Debug\Model.pdb

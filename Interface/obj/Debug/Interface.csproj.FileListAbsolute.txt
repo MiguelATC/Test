@@ -1,0 +1,17 @@
+C:\Users\Fear-Lap\source\repos\BDDIII_DB4O_CRUD\Interface\bin\Debug\Interface.dll
+C:\Users\Fear-Lap\source\repos\BDDIII_DB4O_CRUD\Interface\bin\Debug\Interface.pdb
+C:\Users\Fear-Lap\source\repos\BDDIII_DB4O_CRUD\Interface\bin\Debug\Model.dll
+C:\Users\Fear-Lap\source\repos\BDDIII_DB4O_CRUD\Interface\bin\Debug\Model.pdb
+C:\Users\Fear-Lap\source\repos\BDDIII_DB4O_CRUD\Interface\obj\Debug\Interface.csprojAssemblyReference.cache
+C:\Users\Fear-Lap\source\repos\BDDIII_DB4O_CRUD\Interface\obj\Debug\Interface.csproj.CopyComplete
+C:\Users\Fear-Lap\source\repos\BDDIII_DB4O_CRUD\Interface\obj\Debug\Interface.dll
+C:\Users\Fear-Lap\source\repos\BDDIII_DB4O_CRUD\Interface\obj\Debug\Interface.pdb
+C:\Users\Fear\source\repos\BDDIII_DB4O_CRUD\Interface\bin\Debug\Interface.dll
+C:\Users\Fear\source\repos\BDDIII_DB4O_CRUD\Interface\bin\Debug\Interface.pdb
+C:\Users\Fear\source\repos\BDDIII_DB4O_CRUD\Interface\bin\Debug\Model.dll
+C:\Users\Fear\source\repos\BDDIII_DB4O_CRUD\Interface\bin\Debug\Model.pdb
+C:\Users\Fear\source\repos\BDDIII_DB4O_CRUD\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+C:\Users\Fear\source\repos\BDDIII_DB4O_CRUD\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Fear\source\repos\BDDIII_DB4O_CRUD\Interface\obj\Debug\Interface.csproj.CopyComplete
+C:\Users\Fear\source\repos\BDDIII_DB4O_CRUD\Interface\obj\Debug\Interface.dll
+C:\Users\Fear\source\repos\BDDIII_DB4O_CRUD\Interface\obj\Debug\Interface.pdb
