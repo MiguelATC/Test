@@ -208,7 +208,7 @@ namespace BDDIII_DB4O_CRUD
             {
                 lbxBranch.Items.Add(item);
             }
-            
+            //AEA
 
             //p = new Person(txtCi.Text, txtName.Text, txtLastName.Text, txtSecondLastName.Text, char.Parse(cbxGender.Text), dpBirthDate.SelectedDate.Value);
         }
